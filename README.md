@@ -5,8 +5,8 @@ But I'm a simple nerd.. and sometimes I try to be a web developer.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luigi-noto-423593208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-noto-423593208" height="30" width="40" /></a>
-<a href="https://instagram.com/aluisius95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aluisius95" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luigi-noto-423593208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi-noto-423593208" height="30" width="40" /></a>
+<a href="https://instagram.com/aluisius95" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aluisius95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
