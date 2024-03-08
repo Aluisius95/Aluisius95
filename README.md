@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Anurag's GitHub](https://github-readme-stats.vercel.app/api?username=Aluisius95&custom_title=Aluisius95's%20GitHub%20Stats&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aluisius95&custom_title=Aluisius95's%20GitHub%20Stats&show_icons=true&&theme=merko#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aluisius95)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aluisius95/Aluisius95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
