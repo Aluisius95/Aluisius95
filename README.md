@@ -6,10 +6,10 @@
 
 ```
 if(!genius && !billionaire && !playboy && !philantropist){
-  name = "Aluisius";
-  hobbies = "Souls-like game";
+  name = "Aluisius95";
+  hobbies = "Souls player";
   studies = "Digital Humanities";
-  work = "Still no one, but maybe web developer";
+  work = "Still no one, but maybe full stack developer";
 } else {
   console.log("I'm Iron Man")
 }
